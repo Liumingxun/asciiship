@@ -3,15 +3,15 @@ asciiship
 
 A heavily reduced, ASCII-only version of the [Spaceship] and [Starship] prompts.
 
-<img width="706" src="https://zimfw.github.io/images/prompts/asciiship@2.png">
+![image](https://github.com/psztoch/asciiship/assets/4523167/790e67f4-bb82-413b-9978-a712ce6eba04)
 
 What does it show?
 ------------------
 
   * On the top line:
     * Value of `SHLVL` when shell level is at least 2.
-    * User name when root or in an SSH session.
-    * Host name when in an SSH session.
+    * User name ~when root or in an SSH session~.
+    * Host name ~when in an SSH session~.
     * Current directory.
     * Git information when you are in a git repo. This requires the [git-info]
       module, that can be customized with additional [settings][git-info settings].
