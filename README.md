@@ -3,7 +3,7 @@ asciiship
 
 A heavily reduced, ASCII-only version of the [Spaceship] and [Starship] prompts.
 
-![image](https://github.com/psztoch/asciiship/assets/4523167/790e67f4-bb82-413b-9978-a712ce6eba04)
+![image](/preview.webp)
 
 What does it show?
 ------------------
